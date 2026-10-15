@@ -34,3 +34,4 @@ class TestCalculator:
     def test_power(self):
         assert self.calc.power(2, 3) == 8
         assert self.calc.power(5, 0) == 1
+        
